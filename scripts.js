@@ -4,7 +4,7 @@ const languageSelected = document.querySelector('#language-tags');
 
 let languageTag = 'en-US';
 
-
+//teste
 let listItems = [
     {
         full_name: 'JavaScript',
